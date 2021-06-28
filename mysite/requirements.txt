@@ -98,7 +98,7 @@ pyee==8.1.0
 Pygments==2.7.3
 PyJWT==2.0.1
 pyparsing==2.4.7
-pypiwin32==223
+pypiwin32==300
 pyppeteer==0.2.5
 pyquery==1.4.3
 pyRdfa3==3.5.3
